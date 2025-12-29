@@ -1,0 +1,14 @@
+C:\Users\guilh\VS PROJETOS\ProjetoCSharp\ProjetoCSharp\bin\Debug\net8.0\ProjetoCSharp.exe
+C:\Users\guilh\VS PROJETOS\ProjetoCSharp\ProjetoCSharp\bin\Debug\net8.0\ProjetoCSharp.deps.json
+C:\Users\guilh\VS PROJETOS\ProjetoCSharp\ProjetoCSharp\bin\Debug\net8.0\ProjetoCSharp.runtimeconfig.json
+C:\Users\guilh\VS PROJETOS\ProjetoCSharp\ProjetoCSharp\bin\Debug\net8.0\ProjetoCSharp.dll
+C:\Users\guilh\VS PROJETOS\ProjetoCSharp\ProjetoCSharp\bin\Debug\net8.0\ProjetoCSharp.pdb
+C:\Users\guilh\VS PROJETOS\ProjetoCSharp\ProjetoCSharp\obj\Debug\net8.0\ProjetoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\VS PROJETOS\ProjetoCSharp\ProjetoCSharp\obj\Debug\net8.0\ProjetoCSharp.AssemblyInfoInputs.cache
+C:\Users\guilh\VS PROJETOS\ProjetoCSharp\ProjetoCSharp\obj\Debug\net8.0\ProjetoCSharp.AssemblyInfo.cs
+C:\Users\guilh\VS PROJETOS\ProjetoCSharp\ProjetoCSharp\obj\Debug\net8.0\ProjetoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\guilh\VS PROJETOS\ProjetoCSharp\ProjetoCSharp\obj\Debug\net8.0\ProjetoCSharp.dll
+C:\Users\guilh\VS PROJETOS\ProjetoCSharp\ProjetoCSharp\obj\Debug\net8.0\refint\ProjetoCSharp.dll
+C:\Users\guilh\VS PROJETOS\ProjetoCSharp\ProjetoCSharp\obj\Debug\net8.0\ProjetoCSharp.pdb
+C:\Users\guilh\VS PROJETOS\ProjetoCSharp\ProjetoCSharp\obj\Debug\net8.0\ProjetoCSharp.genruntimeconfig.cache
+C:\Users\guilh\VS PROJETOS\ProjetoCSharp\ProjetoCSharp\obj\Debug\net8.0\ref\ProjetoCSharp.dll
