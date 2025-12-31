@@ -12,3 +12,4 @@ C:\Users\guilh\VS PROJETOS\ProjetoCSharp\ProjetoCSharp\obj\Debug\net8.0\refint\P
 C:\Users\guilh\VS PROJETOS\ProjetoCSharp\ProjetoCSharp\obj\Debug\net8.0\ProjetoCSharp.pdb
 C:\Users\guilh\VS PROJETOS\ProjetoCSharp\ProjetoCSharp\obj\Debug\net8.0\ProjetoCSharp.genruntimeconfig.cache
 C:\Users\guilh\VS PROJETOS\ProjetoCSharp\ProjetoCSharp\obj\Debug\net8.0\ref\ProjetoCSharp.dll
+C:\Users\guilh\VS PROJETOS\ProjetoCSharp\ProjetoCSharp\obj\Debug\net8.0\ProjetoCSharp.sourcelink.json
