@@ -6,22 +6,31 @@ namespace ProjetoCSharp {
     internal class Program {
         static void Main(string[] args) {
             // Exercicio: condicional
-            Console.WriteLine("Digite a hora inicial e final (ex:12-21): ");
+            Console.WriteLine("Digite o código e quant do produto que vc deseja (ex: 1,4) : ");
 
-            String[] valores = Console.ReadLine().Split('-');
+            String[] valores = Console.ReadLine().Split(',');
 
-            int hinicial = int.Parse(valores[0]);
-            int hfinal = int.Parse(valores[1]);
-            int duracao = 0;
-            if (hinicial > hfinal) {
-                duracao = (24 - hinicial) + hfinal;
+            int preco = int.Parse(valores[0]);
+            int quant = int.Parse(valores[1]);
 
-                Console.WriteLine("A duração final é de : " + duracao + " horas.");
+            double total;
+            if (preco == 1) {
+                total = quant * 4.0;
+            }
+            else if (preco == 2) {
+                total = quant * 4.5;
+            }
+            else if (preco == 3) {
+                total = quant * 5.0;
+            }
+            else if (preco == 4) {
+                total = quant * 2.0;
             }
             else {
-                duracao= hfinal - hinicial;
-                Console.WriteLine("A duração final é de : " + duracao + " horas.");
+                total = quant * 1.5;
             }
+
+            Console.WriteLine("Total: R$ " + total.ToString("F2", CultureInfo.InvariantCulture));
         }
     }
 }
